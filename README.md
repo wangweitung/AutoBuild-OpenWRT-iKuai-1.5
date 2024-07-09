@@ -15,13 +15,9 @@ luci-app-accesscontrol
 
 luci-app-arpbind
 
-luci-app-autoreboot
-
 luci-app-firewall
 
 luci-app-nlbwmon
-
-luci-app-serverchan
 
 luci-app-openclash
 
